@@ -9,9 +9,11 @@ This project explores a rich dataset that includes vehicles and the persons driv
 
 ## Data Source
 
-Motor Vehicle Collisions-Vehicles: The motor vehicle collisions-Vehicles data contains information on each vehicle involved in an accident from all police-reported motor vehicle collisions in New York city. The data is taken from 2012 to 2020. Each row represents a motor vehicle involved in an accident. https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4
+Motor Vehicle Collisions-Vehicles: The motor vehicle collisions-Vehicles data contains information on each vehicle involved in an accident from all police-reported motor vehicle collisions in New York city. The data is taken from 2012 to 2020. Each row represents a motor vehicle involved in an accident. 
+https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4
 
-Motor Vehicle Collisions-Persons: The motor vehicle collisions-Persons data contains information on persons involved in an accident from all police-reported motor vehicle collisions in New York city. Each row represents a person involved in an accident. https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu
+Motor Vehicle Collisions-Persons: The motor vehicle collisions-Persons data contains information on persons involved in an accident from all police-reported motor vehicle collisions in New York city. Each row represents a person involved in an accident. 
+https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu
 
 ## Analysis of Data 
 
